@@ -1,22 +1,74 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Memory-efficient class-incremental learning for image classification"
+    authors: Hanbin Zhao, Hui Wang, Yongjian Fu, Fei Wu, Xi Li
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9422177/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper9.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "When Video Classification Meets Incremental Classes"
+    authors: Yongjian Fu, Songyuan Li, <strong>Hanbin Zhao</strong>, Wenfu Wang, Weihao Fang, Yueting Zhuang, Zhijie Pan, Xi Li
+    conference_short: MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2021.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3474085.3475265
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper8.jpg
+
+  - title: "Elastic Knowledge Distillation by Learning from Recollection"
+    authors: Yongjian Fu, Songyuan Li, <strong>Hanbin Zhao</strong>, Wenfu Wang, Weihao Fang, Yueting Zhuang, Zhijie Pan, Xi Li
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9546048/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper7.jpg
+
+  - title: "Progressive Class-based Expansion Learning For Image Classification"
+    authors: Hui Wang, <strong>Hanbin Zhao</strong>, Xi Li
+    conference_short: SPL
+    conference: IEEE Signal Processing Letters <strong>(SPL)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2106.14412
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper6.jpg
+
+  - title: "MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning"
+    authors: <strong>Hanbin Zhao</strong>, Yongjian Fu, Mintong Kang, Qi Tian, Fei Wu, Xi Li*
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2006.15524
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper5.jpg
+
+  - title: "PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization"
+    authors: Xin Qin, <strong>Hanbin Zhao</strong>, Guangchen Lin, Hao Zeng, Songcen Xu, Xi Li*
+    conference_short: Neurocomputing
+    conference: Neurocomputing <strong>(Neurocomputing)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2103.05270
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper4.jpg
+
+  - title: "What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning"
+    authors: <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Hao Zeng, Xin Qin, Yongjian Fu, Hui Wang, Bourahla Omar, Xi Li*
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2007.12415
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper3.jpg
+
+  - title: Epoch-evolving Gaussian Process Guided Learning
+    authors: Jiabao Cui, Xuewei Li, <strong>Hanbin Zhao</strong>, Hui Wang, Bin Li, Xi Li<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2006.14347
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper2.jpg
+
+  - title: Progressive Blockwise Knowledge Distillation for Neural Network Acceleration
+    authors: Hui Wang*, <strong>Hanbin Zhao*</strong>, Xi Li, Xu Tan (* Equal contribution)
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2018.
+    pdf: https://www.ijcai.org/proceedings/2018/0384.pdf
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper1.jpg
+
