@@ -1,7 +1,136 @@
 main:
+  - title: "Mos: Model surgery for pre-trained model-based class-incremental learning"
+    authors: Hai-Long Sun, Da-Wei Zhou, <strong>Hanbin Zhao</strong>, Le Gan, De-Chuan Zhan, Han-Jia Ye
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34281/36436
+    code: https://github.com/sun-hailong/AAAI25-MOS
+    image: ./assets/img/paper24.jpg
+
+  - title: "Texttoucher: Fine-grained text-to-touch generation"
+    authors: Jiahang Tu, Hao Fu, Fengyu Yang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32802/34957
+    code: https://github.com/TtuHamg/TextToucher
+    image: ./assets/img/paper23.jpg
+
+  - title: "DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving Data Generation"
+    authors: Jiahang Tu, Wei Ji, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Roger Zimmermann, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: TOMM
+    conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=wdVaV0hLuC
+    code: https://github.com/TtuHamg/DriveDiTFit
+    image: ./assets/img/paper20.jpg
+
+  - title: "GCSTG: Generating Class-confusion-aware Samples with a Tree-structure Graph for Few-shot Object Detection"
+    authors: Longrong Yang, <strong>Hanbin Zhao</strong>, Hongliang Li, Liang Qiao, Ziwei Yang, Xi Li
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10851817/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper22.jpg
+
+  - title: "Belm: Bidirectional explicit linear multi-step sampler for exact inversion in diffusion models"
+    authors: Fangyikang Wang, Hubery Yin, Yue-Jiang Dong, Huminhao Zhu, <strong>Hanbin Zhao</strong>, Hui Qian, Chen Li
+    conference_short: NeurIPS
+    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/520425a5a4c2fb7f7fc345078b188201-Paper-Conference.pdf
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper21.jpg
+
+  - title: "D-LLM: A Token Adaptive Computing Resource Allocation Strategy for Large Language Models"
+    authors: Yikun Jiang, Huanyu Wang, Lei Xie, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian, John CS Lui (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: NeurIPS
+    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/03469b1a66e351b18272be23baf3b809-Paper-Conference.pdf
+    code: https://github.com/Jyk-122/D-LLM
+    image: ./assets/img/paper19.jpg
+
+  - title: "Solving Zero-Sum Markov Games with Continous State via Spectral Dynamic Embedding"
+    authors: Chenhao Zhou, Zebang Shen, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian
+    conference_short: NeurIPS
+    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: http://proceedings.neurips.cc/paper_files/paper/2024/file/7ed89d8e0b346994b064ba804443689e-Paper-Conference.pdf
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper18.jpg
+
+  - title: "Hierarchical Debiasing and Noisy Correction for Cross-domain Video Tube Retrieval"
+    authors: Jingqiao Xiu, Mengze Li, Wei Ji, Jingyuan Chen, <strong>Hanbin Zhao</strong>, Shin'ichi Satoh, Roger Zimmermann
+    conference_short: MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681632
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper17.jpg
+
+  - title: "RCS-Prompt: Learning Prompt to Rearrange Class Space for Prompt-based Continual Learning"
+    authors: Longrong Yang, <strong>Hanbin Zhao</strong>, Yunlong Yu, Xiaodong Zeng, Xi Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06307.pdf
+    code: https://github.com/longrongyang/RCS-Prompt
+    image: ./assets/img/paper16.jpg
+
+  - title: "APISR: anime production inspired real-world anime super-resolution"
+    authors: Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: CVPR
+    conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/html/Wang_APISR_Anime_Production_Inspired_Real-World_Anime_Super-Resolution_CVPR_2024_paper.html
+    code: https://github.com/Kiteretsu77/APISR
+    image: ./assets/img/paper15.jpg
+
+  - title: "Unsupervised Domain Adaptation With Class-Aware Memory Alignment"
+    authors: Hui Wang, Liangli Zheng, <strong>Hanbin Zhao</strong>, Shijian Li, Xi Li
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10454017/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper14.jpg
+
+  - title: "GAD-PVI: A General Accelerated Dynamic-Weight Particle-Based Variational Inference Framework"
+    authors: Fangyikang Wang, Huminhao Zhu, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29472/30774
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper13.jpg
+
+  - title: "Structure-conditioned adversarial learning for unsupervised domain adaptation"
+    authors: Hui Wang, Jian Tian, Songyuan Li, <strong>Hanbin Zhao</strong>, Fei Wu, Xi Li
+    conference_short: Neurocomputing
+    conference: Neurocomputing <strong>(Neurocomputing)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231222004799
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper12.jpg
+
+  - title: Epoch-evolving Gaussian Process Guided Learning
+    authors: Jiabao Cui, Xuewei Li, <strong>Hanbin Zhao</strong>, Hui Wang, Bin Li, Xi Li
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9779793
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper2.jpg
+
+
+  - title: "Adma-GAN: Attribute-Driven Memory Augmented GANs for Text-to-Image Generation"
+    authors: Xintian Wu, <strong>Hanbin Zhao</strong>, Liangli Zheng, Shouhong Ding, Xi Li
+    conference_short: MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/10.1145/3503161.3547821
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper11.jpg
+
+
+  - title: "RBC: Rectifying the Biased Context in Continual Semantic Segmentation"
+    authors: <strong>Hanbin Zhao</strong>, Fengyu Yang, Xinghe Fu, Xi Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940054.pdf
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper10.jpg
 
   - title: "Memory-efficient class-incremental learning for image classification"
-    authors: Hanbin Zhao, Hui Wang, Yongjian Fu, Fei Wu, Xi Li
+    authors: <strong>Hanbin Zhao</strong>, Hui Wang, Yongjian Fu, Fei Wu, Xi Li
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/document/9422177/
@@ -33,7 +162,7 @@ main:
     image: ./assets/img/paper6.jpg
 
   - title: "MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning"
-    authors: <strong>Hanbin Zhao</strong>, Yongjian Fu, Mintong Kang, Qi Tian, Fei Wu, Xi Li*
+    authors: <strong>Hanbin Zhao</strong>, Yongjian Fu, Mintong Kang, Qi Tian, Fei Wu, Xi Li
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2006.15524
@@ -41,7 +170,7 @@ main:
     image: ./assets/img/paper5.jpg
 
   - title: "PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization"
-    authors: Xin Qin, <strong>Hanbin Zhao</strong>, Guangchen Lin, Hao Zeng, Songcen Xu, Xi Li*
+    authors: Xin Qin, <strong>Hanbin Zhao</strong>, Guangchen Lin, Hao Zeng, Songcen Xu, Xi Li
     conference_short: Neurocomputing
     conference: Neurocomputing <strong>(Neurocomputing)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2103.05270
@@ -49,20 +178,13 @@ main:
     image: ./assets/img/paper4.jpg
 
   - title: "What and Where: Learn to Plug Adapters via NAS for Multi-Domain Learning"
-    authors: <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Hao Zeng, Xin Qin, Yongjian Fu, Hui Wang, Bourahla Omar, Xi Li*
+    authors: <strong>Hanbin Zhao</strong>, Hao Zeng, Xin Qin, Yongjian Fu, Hui Wang, Bourahla Omar, Xi Li
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2007.12415
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper3.jpg
 
-  - title: Epoch-evolving Gaussian Process Guided Learning
-    authors: Jiabao Cui, Xuewei Li, <strong>Hanbin Zhao</strong>, Hui Wang, Bin Li, Xi Li<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
-    conference_short: TNNLS
-    conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2006.14347
-    code: https://hanbinzhao.github.io/
-    image: ./assets/img/paper2.jpg
 
   - title: Progressive Blockwise Knowledge Distillation for Neural Network Acceleration
     authors: Hui Wang*, <strong>Hanbin Zhao*</strong>, Xi Li, Xu Tan (* Equal contribution)
