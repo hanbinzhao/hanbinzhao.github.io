@@ -12,9 +12,14 @@ I am actively seeking highly motivated Ph.D/Master candidates who share my resea
 
 ## News
 
+- **[May. 2025]** Our paper about incremental learning is accepted to TCSVT.
 - **[May. 2025]** Our paper about diffusion models is accepted to ICML 2025.
 - **[April. 2025]** Two papers are accepted to IJCAI 2025.
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+<center>
+<a href="https://clustrmaps.com/site/1c60f"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=5MNmBo6mJCb_MC7DklHIt53TXG-kbdFNAagOTNY9VOM&cl=ffffff" /></a>
+</center>

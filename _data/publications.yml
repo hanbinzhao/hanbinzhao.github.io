@@ -1,5 +1,38 @@
 main:
-  - title: "Mos: Model surgery for pre-trained model-based class-incremental learning"
+  - title: "PECTP: Parameter-Efficient Cross-Task Prompts for Incremental Vision Transformer"
+    authors: Qian Feng, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Jiahua Dong, Henghui Ding, Yu-Gang Jiang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2407.03813
+    code: https://github.com/RAIAN08/PECTP
+    image: ./assets/img/paper28.jpg
+
+  - title: "Efficiently Access Diffusion Fisher: Within the Outer Product Span Space"
+    authors: Fangyikang Wang, Hubery Yin, Shaobin Zhuang, Huminhao Zhu, Yinan Li, Lei Qian, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian, Chen Li
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://hanbinzhao.github.io/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper27.jpg
+
+  - title: "A Timestep-Adaptive Frequency-Enhancement Framework for Diffusion-based Image Super-Resolution"
+    authors: Yueying Li, <strong>Hanbin Zhao</strong>, Jiaqing Zhou, Guozhi Xu, Tianlei Hu, Gang Chen, Haobo Wang
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
+    pdf: https://hanbinzhao.github.io/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper26.jpg
+
+  - title: "Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary
+Vision Synthesis"
+    authors: Lina Wei, Yuhang Ma, Zhongsheng Lin, Fangfang Wang, Canghong Jin, <strong>Hanbin Zhao</strong>, Dapeng Chen
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
+    pdf: https://hanbinzhao.github.io/
+    code: https://hanbinzhao.github.io/
+    image: ./assets/img/paper25.jpg
+
+  - title: "Mos: Model Surgery for Pre-trained Model-based Class-incremental Learning"
     authors: Hai-Long Sun, Da-Wei Zhou, <strong>Hanbin Zhao</strong>, Le Gan, De-Chuan Zhan, Han-Jia Ye
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
@@ -7,7 +40,7 @@ main:
     code: https://github.com/sun-hailong/AAAI25-MOS
     image: ./assets/img/paper24.jpg
 
-  - title: "Texttoucher: Fine-grained text-to-touch generation"
+  - title: "Texttoucher: Fine-grained Text-to-Touch Generation"
     authors: Jiahang Tu, Hao Fu, Fengyu Yang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
@@ -31,10 +64,10 @@ main:
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper22.jpg
 
-  - title: "Belm: Bidirectional explicit linear multi-step sampler for exact inversion in diffusion models"
+  - title: "Belm: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models"
     authors: Fangyikang Wang, Hubery Yin, Yue-Jiang Dong, Huminhao Zhu, <strong>Hanbin Zhao</strong>, Hui Qian, Chen Li
     conference_short: NeurIPS
-    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/520425a5a4c2fb7f7fc345078b188201-Paper-Conference.pdf
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper21.jpg
@@ -42,7 +75,7 @@ main:
   - title: "D-LLM: A Token Adaptive Computing Resource Allocation Strategy for Large Language Models"
     authors: Yikun Jiang, Huanyu Wang, Lei Xie, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian, John CS Lui (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: NeurIPS
-    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/03469b1a66e351b18272be23baf3b809-Paper-Conference.pdf
     code: https://github.com/Jyk-122/D-LLM
     image: ./assets/img/paper19.jpg
@@ -50,7 +83,7 @@ main:
   - title: "Solving Zero-Sum Markov Games with Continous State via Spectral Dynamic Embedding"
     authors: Chenhao Zhou, Zebang Shen, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian
     conference_short: NeurIPS
-    conference: The Thirty-eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: http://proceedings.neurips.cc/paper_files/paper/2024/file/7ed89d8e0b346994b064ba804443689e-Paper-Conference.pdf
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper18.jpg
