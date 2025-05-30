@@ -25,7 +25,7 @@ main:
 
   - title: "Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary
 Vision Synthesis"
-    authors: Lina Wei, Yuhang Ma, Zhongsheng Lin, Fangfang Wang, Canghong Jin, <strong>Hanbin Zhao</strong>, Dapeng Chen
+    authors: Lina Wei, Yuhang Ma, Zhongsheng Lin, Fangfang Wang, Canghong Jin, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Dapeng Chen
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
     pdf: https://hanbinzhao.github.io/
@@ -104,10 +104,10 @@ Vision Synthesis"
     code: https://github.com/longrongyang/RCS-Prompt
     image: ./assets/img/paper16.jpg
 
-  - title: "APISR: anime production inspired real-world anime super-resolution"
+  - title: "APISR: Anime Production Inspired Real-World Anime Super-Resolution"
     authors: Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: CVPR
-    conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024/html/Wang_APISR_Anime_Production_Inspired_Real-World_Anime_Super-Resolution_CVPR_2024_paper.html
     code: https://github.com/Kiteretsu77/APISR
     image: ./assets/img/paper15.jpg
@@ -128,7 +128,7 @@ Vision Synthesis"
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper13.jpg
 
-  - title: "Structure-conditioned adversarial learning for unsupervised domain adaptation"
+  - title: "Structure-conditioned Adversarial Learning for Unsupervised Domain Adaptation"
     authors: Hui Wang, Jian Tian, Songyuan Li, <strong>Hanbin Zhao</strong>, Fei Wu, Xi Li
     conference_short: Neurocomputing
     conference: Neurocomputing <strong>(Neurocomputing)</strong>, 2022.
@@ -162,7 +162,7 @@ Vision Synthesis"
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper10.jpg
 
-  - title: "Memory-efficient class-incremental learning for image classification"
+  - title: "Memory-efficient Class-Incremental Learning for Image Classification"
     authors: <strong>Hanbin Zhao</strong>, Hui Wang, Yongjian Fu, Fei Wu, Xi Li
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Network and Learning Systems <strong>(TNNLS)</strong>, 2021.
@@ -171,7 +171,7 @@ Vision Synthesis"
     image: ./assets/img/paper9.jpg
 
   - title: "When Video Classification Meets Incremental Classes"
-    authors: Yongjian Fu, Songyuan Li, <strong>Hanbin Zhao</strong>, Wenfu Wang, Weihao Fang, Yueting Zhuang, Zhijie Pan, Xi Li
+    authors: <strong>Hanbin Zhao</strong>, Xin Qin, Shihao Su, Yongjian Fu, Zibo Lin, Xi Li
     conference_short: MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2021.
     pdf: https://dl.acm.org/doi/abs/10.1145/3474085.3475265
