@@ -12,6 +12,7 @@
   <li><a href="https://aaai.org/Conferences/AAAI-24/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2022-2024</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2025</autocolor></a></li>
   <li><a href="https://2023.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024-2025</autocolor></a></li>  
+  <li><a href="https://wacv.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</autocolor></a></li>  
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
