@@ -1,4 +1,12 @@
 main:
+  - title: "Advances in Incremental Learning Research"
+    authors: Hao Fu, Qian Feng, Jiahang Tu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Xin Du, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: JIG
+    conference: Journal of Image and Graphics <strong>(JIG)</strong>, 2025.
+    pdf: https://www.cjig.cn/thesisDetails#10.11834/jig.240790&lang=zh
+    code: https://www.cjig.cn/thesisDetails#10.11834/jig.240790&lang=zh
+    image: ./assets/img/paper32.jpg
+
   - title: "FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning"
     authors: Qian Feng, Jiahang Tu, Mintong Kang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: ICCV
