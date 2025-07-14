@@ -9,7 +9,7 @@
   <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2022-2025</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2024"><autocolor>International Conference on Machine Learning (ICML) 2022-2025</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2023-2025</autocolor></a></li>
-  <li><a href="https://aaai.org/Conferences/AAAI-24/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2022-2024</autocolor></a></li>
+  <li><a href="https://aaai.org/Conferences/AAAI-24/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2022-2026</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2025</autocolor></a></li>
   <li><a href="https://2023.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2024-2025</autocolor></a></li>  
   <li><a href="https://wacv.thecvf.com/"><autocolor>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</autocolor></a></li>  
