@@ -1,4 +1,12 @@
 main:
+  - title: "Visuo-Tactile Class-Incremental Learning"
+    authors: Hao Fu, Fengyu Yang, Wei Ji, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Boyang Wang, Chao Zhang, Roger Zimmermann, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: TOMM
+    conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2025.
+    pdf: https://github.com/FerdinandZJU/VT-CIL
+    code: https://github.com/FerdinandZJU/VT-CIL
+    image: ./assets/img/paper33.jpg
+  
   - title: "Advances in Incremental Learning Research"
     authors: Hao Fu, Qian Feng, Jiahang Tu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Xin Du, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: JIG
