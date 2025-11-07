@@ -1,9 +1,25 @@
 main:
   - title: "Visuo-Tactile Class-Incremental Learning"
+    authors: Jiahua Dong, Xudong Wang, Wenqi Liang, Zongyan Han, Meng Cao, Duzhen Zhang, <strong>Hanbin Zhao</strong>, Zhi Han, Salman Khan, Fahad Shahbaz Khan
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://aaai.org/conference/aaai/aaai-26/
+    code: https://aaai.org/conference/aaai/aaai-26/
+    image: ./assets/img/paper35.jpg
+
+  - title: "Mass Concept Erasure in Diffusion Models with Concept Hierarchy"
+    authors: Jiahang Tu, Ye Li, Yiming Wu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://aaai.org/conference/aaai/aaai-26/
+    code: https://aaai.org/conference/aaai/aaai-26/
+    image: ./assets/img/paper34.jpg
+
+  - title: "Visuo-Tactile Class-Incremental Learning"
     authors: Hao Fu, Fengyu Yang, Wei Ji, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Boyang Wang, Chao Zhang, Roger Zimmermann, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: TOMM
     conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2025.
-    pdf: https://github.com/FerdinandZJU/VT-CIL
+    pdf: https://dl.acm.org/doi/abs/10.1145/3754452
     code: https://github.com/FerdinandZJU/VT-CIL
     image: ./assets/img/paper33.jpg
   
@@ -19,23 +35,23 @@ main:
     authors: Qian Feng, Jiahang Tu, Mintong Kang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: https://iccv.thecvf.com/
-    code: https://iccv.thecvf.com/
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/html/Feng_FG-OrIU_Towards_Better_Forgetting_via_Feature-Gradient_Orthogonality_for_Incremental_Unlearning_ICCV_2025_paper.html
+    code: https://github.com/RAIAN08/FG-OrIU
     image: ./assets/img/paper31.jpg
 
   - title: "Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation"
     authors: Jiahua Dong, Hui Yin, Wenqi Liang, <strong>Hanbin Zhao</strong>, Henghui Ding, Nicu Sebe, Salman Khan, Fahad Shahbaz Khan
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: https://iccv.thecvf.com/
-    code: https://iccv.thecvf.com/
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Dong_Hierarchical_Visual_Prompt_Learning_for_Continual_Video_Instance_Segmentation_ICCV_2025_paper.pdf
+    code: https://github.com/JiahuaDong/HVPL
     image: ./assets/img/paper30.jpg
   
   - title: "Unleashing High-Quality Image Generation in Diffusion Sampling Using Second-Order Levenberg-Marquardt-Langevin"
     authors: Fangyikang Wang, Hubery Yin, Lei Qian, Yinan Li, Shaobin Zhuang, Huminhao Zhu, Zhang Yilin, Yanlong Tang, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian, Chen Li
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: https://iccv.thecvf.com/
+    pdf: https://arxiv.org/pdf/2505.24222
     code: https://iccv.thecvf.com/
     image: ./assets/img/paper29.jpg
 
@@ -63,8 +79,7 @@ main:
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper26.jpg
 
-  - title: "Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary
-Vision Synthesis"
+  - title: "Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary Vision Synthesis"
     authors: Lina Wei, Yuhang Ma, Zhongsheng Lin, Fangfang Wang, Canghong Jin, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Dapeng Chen
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
