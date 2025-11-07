@@ -2,7 +2,7 @@ main:
   - title: "Bring Your Dreams to Life: Continual Text-to-Video Customization"
     authors: Jiahua Dong, Xudong Wang, Wenqi Liang, Zongyan Han, Meng Cao, Duzhen Zhang, <strong>Hanbin Zhao</strong>, Zhi Han, Salman Khan, Fahad Shahbaz Khan
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://aaai.org/conference/aaai/aaai-26/
     code: https://aaai.org/conference/aaai/aaai-26/
     image: ./assets/img/paper35.jpg
@@ -10,7 +10,7 @@ main:
   - title: "Mass Concept Erasure in Diffusion Models with Concept Hierarchy"
     authors: Jiahang Tu, Ye Li, Yiming Wu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://aaai.org/conference/aaai/aaai-26/
     code: https://aaai.org/conference/aaai/aaai-26/
     image: ./assets/img/paper34.jpg
@@ -90,7 +90,7 @@ main:
   - title: "Mos: Model Surgery for Pre-trained Model-based Class-incremental Learning"
     authors: Hai-Long Sun, Da-Wei Zhou, <strong>Hanbin Zhao</strong>, Le Gan, De-Chuan Zhan, Han-Jia Ye
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34281/36436
     code: https://github.com/sun-hailong/AAAI25-MOS
     image: ./assets/img/paper24.jpg
@@ -98,7 +98,7 @@ main:
   - title: "Texttoucher: Fine-grained Text-to-Touch Generation"
     authors: Jiahang Tu, Hao Fu, Fengyu Yang, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32802/34957
     code: https://github.com/TtuHamg/TextToucher
     image: ./assets/img/paper23.jpg
@@ -178,7 +178,7 @@ main:
   - title: "GAD-PVI: A General Accelerated Dynamic-Weight Particle-Based Variational Inference Framework"
     authors: Fangyikang Wang, Huminhao Zhu, Chao Zhang, <strong>Hanbin Zhao</strong>, Hui Qian
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    conference: The 38th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29472/30774
     code: https://hanbinzhao.github.io/
     image: ./assets/img/paper13.jpg
