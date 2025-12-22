@@ -1,6 +1,6 @@
 main:
   - title: "IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting"
-    authors: Hao Fu, <strong>Hanbin Zhao</strong>, Jiahua Dong, Henghui Ding, Chao Zhang, Hui Qian
+    authors: Hao Fu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jiahua Dong, Henghui Ding, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: TIP
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2503.20612
