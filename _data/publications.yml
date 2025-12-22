@@ -1,5 +1,13 @@
 main:
   - title: "Bring Your Dreams to Life: Continual Text-to-Video Customization"
+    authors: Hao Fu, <strong>Hanbin Zhao</strong>, Jiahua Dong, Henghui Ding, Chao Zhang, Hui Qian
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2503.20612
+    code: https://github.com/FerdinandZJU/IAP
+    image: ./assets/img/paper36.jpg
+
+  - title: "Bring Your Dreams to Life: Continual Text-to-Video Customization"
     authors: Jiahua Dong, Xudong Wang, Wenqi Liang, Zongyan Han, Meng Cao, Duzhen Zhang, <strong>Hanbin Zhao</strong>, Zhi Han, Salman Khan, Fahad Shahbaz Khan
     conference_short: AAAI
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
