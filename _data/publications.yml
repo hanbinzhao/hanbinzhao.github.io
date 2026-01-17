@@ -1,4 +1,12 @@
 main:
+  - title: "Hyperbolic Active Learning for Label-Efficient Action Segmentation"
+    authors: Jingqiao Xiu, Wei Ji, Menglin Yang, Yufeng Chen, <strong>Hanbin Zhao</strong>, Fangfang Wang, Roger Zimmermann
+    conference_short: TOMM
+    conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2026.
+    pdf: https://dl.acm.org/toc/tomm/justaccepted
+    code: https://dl.acm.org/toc/tomm/justaccepted
+    image: ./assets/img/paper37.jpg
+
   - title: "IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting"
     authors: Hao Fu, <strong>Hanbin Zhao<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jiahua Dong, Henghui Ding, Chao Zhang, Hui Qian (<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
     conference_short: TIP
