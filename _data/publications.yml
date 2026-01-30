@@ -1,4 +1,12 @@
 main:
+  - title: "Equilibrium Language Models"
+    authors: Yikun Jiang, Huanyu Wang, Tianhong Ding, Wenhu Zhang, Yiming Wu, <strong>Hanbin Zhao</strong>, John C.S. Lui
+    conference_short: ICLR
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://iclr.cc/
+    code: https://iclr.cc/
+    image: ./assets/img/paper38.jpg
+
   - title: "Hyperbolic Active Learning for Label-Efficient Action Segmentation"
     authors: Jingqiao Xiu, Wei Ji, Menglin Yang, Yufeng Chen, <strong>Hanbin Zhao</strong>, Fangfang Wang, Roger Zimmermann
     conference_short: TOMM
