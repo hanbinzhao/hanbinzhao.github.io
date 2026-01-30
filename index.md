@@ -11,6 +11,7 @@ My research interests include machine learning and computer vision, currently fo
 I am actively seeking highly motivated Ph.D/Master candidates who share my research interests. Kindly reach out to me at zhaohanbin@zju.edu.cn with your resume!
 
 ## News
+- **[January. 2026]** Our paper is accepted to ICLR 2026.
 - **[January. 2026]** Our paper is accepted to TOMM.
 - **[December. 2025]** Our paper about incremental learning is accepted to TIP.
 - **[November. 2025]** Two papers are accepted to AAAI 2026.
