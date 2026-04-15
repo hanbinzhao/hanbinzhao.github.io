@@ -61,6 +61,8 @@
 </style>
 
 <div class="news-scroll-container">
+  <div class="news-item"><span class="news-item-content"><span class="news-date">[March 2026]</span> Our paper is accepted to <span class="venue">CVPR 2026 Findings</span>.</span></div>
+  <div class="news-item"><span class="news-item-content"><span class="news-date">[March 2026]</span> Our paper is accepted to <span class="venue">npj Artificial Intelligence 2026</span>.</span></div>
   <div class="news-item"><span class="news-item-content"><span class="news-date">[January 2026]</span> Our paper is accepted to <span class="venue">ICLR 2026</span>.</span></div>
   <div class="news-item"><span class="news-item-content"><span class="news-date">[January 2026]</span> Our paper is accepted to <span class="venue">TOMM</span>.</span></div>
   <div class="news-item"><span class="news-item-content"><span class="news-date">[December 2025]</span> Our paper about incremental learning is accepted to <span class="venue">TIP</span>.</span></div>
