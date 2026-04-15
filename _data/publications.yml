@@ -1,4 +1,20 @@
 main:
+  - title: "Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention"
+    authors: Wenhu Zhang, Yiming Wu, Huanyu Wang, Yaoyang Liu, Huanzhang Dou, Senqiao Yang, Sitong Wu, Hanbin Zhao, Jiaya Jia
+    conference_short: CVPR Findings
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR Findings)</strong>, 2026.
+    pdf: https://cvpr.thecvf.com/
+    code: https://github.com/JIA-Lab-research/Block-Approximate-Sparse-Attention
+    image: ./assets/img/paper40.jpg
+
+  - title: "Explainable multi-granularity attribution reasoning framework for fake news detection"
+    authors: Wei Ji, Hongzhen Lv, <strong>Hanbin Zhao</strong>, Roger Zimmermann
+    conference_short: npj Artificial Intelligence
+    conference: npj Artificial Intelligence <strong>(npj Artif. Intell.)</strong>, 2026.
+    pdf: https://www.nature.com/articles/s44387-026-00093-3
+    code: https://www.nature.com/articles/s44387-026-00093-3
+    image: ./assets/img/paper39.jpg
+
   - title: "Equilibrium Language Models"
     authors: Yikun Jiang, Huanyu Wang, Tianhong Ding, Wenhu Zhang, Yiming Wu, <strong>Hanbin Zhao</strong>, John C.S. Lui
     conference_short: ICLR

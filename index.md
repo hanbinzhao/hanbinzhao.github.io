@@ -15,6 +15,8 @@ I am actively seeking highly motivated Ph.D/Master candidates who share my resea
 
 <!--
 ## News
+- **[March. 2026]** Our paper is accepted to CVPR 2026 Findings.
+- **[March. 2026]** Our paper is accepted to npj Artificial Intelligence 2026.
 - **[January. 2026]** Our paper is accepted to ICLR 2026.
 - **[January. 2026]** Our paper is accepted to TOMM.
 - **[December. 2025]** Our paper about incremental learning is accepted to TIP.
