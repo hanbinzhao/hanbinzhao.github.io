@@ -1,6 +1,6 @@
 main:
   - title: "Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention"
-    authors: Wenhu Zhang, Yiming Wu, Huanyu Wang, Yaoyang Liu, Huanzhang Dou, Senqiao Yang, Sitong Wu, Hanbin Zhao, Jiaya Jia
+    authors: Wenhu Zhang, Yiming Wu, Huanyu Wang, Yaoyang Liu, Huanzhang Dou, Senqiao Yang, Sitong Wu, <strong>Hanbin Zhao</strong>, Jiaya Jia
     conference_short: CVPR Findings
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR Findings)</strong>, 2026.
     pdf: https://cvpr.thecvf.com/
